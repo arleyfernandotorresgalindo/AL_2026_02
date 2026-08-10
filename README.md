@@ -30,7 +30,9 @@ El curso incorpora de manera intencional un nivel moderado de formalismo, articu
 
 ## Contenido del repositorio
 
-- [`Cuadernos_clase/`](Cuadernos_clase/) — cuadernos de Jupyter usados en las sesiones de clase (reducción de matrices, multiplicación de matrices, planteamiento de sistemas de ecuaciones).
+- [`Cuadernos_clase/`](Cuadernos_clase/) — cuadernos de Jupyter usados en las sesiones de clase.
+  - [`Cuaderno1.ipynb`](Cuadernos_clase/Cuaderno1.ipynb) — reducción de matrices, multiplicación de matrices y planteamiento de sistemas de ecuaciones.
+  - [`Taller_CD_matrices_operaciones.ipynb`](Cuadernos_clase/Taller_CD_matrices_operaciones.ipynb) — taller (CD): operaciones con matrices aplicadas a datos.
 - [`microcurriculo.pdf`](microcurriculo.pdf) — microcurrículo de la asignatura.
 - [`programa/`](programa/) — guía docente y microcurrículo oficial de Álgebra Lineal.
 
