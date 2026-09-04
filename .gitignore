@@ -1,3 +1,6 @@
 programa/
 Cuadernos_clase_originales/
 Parciales_semestre
+graficos/
+__pycache__/
+*.pyc
