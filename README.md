@@ -52,3 +52,11 @@ El curso incorpora de manera intencional un nivel moderado de formalismo, articu
 | Lunes | 9 - 10 |
 | Miércoles    | 9 - 10 |
 | Viernes   | 9 - 10 |
+
+## Consulta de notas
+
+Escanea el código QR o ingresa al enlace para consultar las notas:
+
+<img src="imagenes/qr_notas.png" alt="Código QR para consultar las notas" width="250">
+
+[https://script.google.com/macros/s/AKfycbws2_O9VlGq6_hwd5f01ZNrIDkbQVNcQrbs0wgA0kQhBign0fXPBoqzowuIDOTOPAfs6g/exec](https://script.google.com/macros/s/AKfycbws2_O9VlGq6_hwd5f01ZNrIDkbQVNcQrbs0wgA0kQhBign0fXPBoqzowuIDOTOPAfs6g/exec)
