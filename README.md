@@ -60,3 +60,8 @@ Escanea el código QR o ingresa al enlace para consultar las notas:
 <img src="imagenes/qr_notas.png" alt="Código QR para consultar las notas" width="250">
 
 [https://script.google.com/macros/s/AKfycbws2_O9VlGq6_hwd5f01ZNrIDkbQVNcQrbs0wgA0kQhBign0fXPBoqzowuIDOTOPAfs6g/exec](https://script.google.com/macros/s/AKfycbws2_O9VlGq6_hwd5f01ZNrIDkbQVNcQrbs0wgA0kQhBign0fXPBoqzowuIDOTOPAfs6g/exec)
+
+## Parcial final
+
+Fecha : Miércoles 18 2 a 4 PM
+Lugar: Colombia, Bogotá, La Candelaria, Universidad Externado, Salón por confirmar
