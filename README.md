@@ -64,4 +64,4 @@ Escanea el código QR o ingresa al enlace para consultar las notas:
 ## Parcial final
 
 Fecha : Miércoles 18 2 a 4 PM
-Lugar: Colombia, Bogotá, La Candelaria, Universidad Externado, Salón por confirmar
+Lugar: Colombia, Bogotá, La Candelaria, Universidad Externado, D 310
