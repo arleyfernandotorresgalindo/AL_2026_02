@@ -69,7 +69,7 @@ Lugar: Colombia, Bogotá, La Candelaria, Universidad Externado, D 310
 ## Entrega Notas
 
 Buenos días. Sus notas se encuentran en el link respectivo para que las puedan consultar.
-En caso de que alguien quiera revisar sus parciales nos vemos en la sala de lectura del edificio C, exactamente abajo de Pitágoras.
+En caso de que alguien quiera revisar sus parciales nos vemos en la sala de lectura del edificio C de 1 a 2, exactamente abajo de Pitágoras.
 
 1. En su nota de clase fue quitada la peor nota
 2. En caso de no poder asistir, puiede escribir por teams.
